@@ -3,10 +3,11 @@
 A **team-scoped distributed file system simulator** built as an academic project to demonstrate distributed storage concepts, approval workflows, and team-based access control.  
 The system simulates **primary–replica node storage**, **two-step approval workflows**, and **event-based notifications** using a modern Node.js stack.
 
-> **Academic Team Project**  
+> **Academic Mini Project | 5th Semester**  
 > **Duration:** September 2025 – January 2026  
 > **Team Size:** 4 Members  
-> **Context:** 5th Sem Mini Project
+> **Role:** Team Lead & Backend Architect  
+> **Tech Stack:** Node.js · Express · MongoDB · EJS (MERN Stack)
 
 
 ## Project Overview
